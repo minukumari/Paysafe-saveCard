@@ -6,11 +6,11 @@ This is a MERN application which have a feature to make a payment and save the c
 
 There are three diffrent part of this project:
 
-Frontend (Implemented using ReactJs)
-Backennd (Implemented using ExpressJs)
-Database (MongoDB)
-Hosting:
+1. Frontend (Implemented using ReactJs)
+2. Backennd (Implemented using ExpressJs)
+3. Database (MongoDB)
 
-Frontend - https://paysafe-frontend.herokuapp.com/
-Backend - https://paysafe-payment1.herokuapp.com/
-Databse - MongoDB Atlas
+Hosting:
+1. Frontend - https://paysafe-frontend.herokuapp.com/
+2. Backend - https://paysafe-payment1.herokuapp.com/
+3. Databse - MongoDB Atlas
